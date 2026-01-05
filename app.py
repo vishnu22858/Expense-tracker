@@ -17,6 +17,7 @@ def show_login_options():
     print("3. View expenses grouped by category")
     print("4. Logout\n")
 
+
 def main():
     "Main function to run the app"
 
